@@ -1,3 +1,2 @@
-1. Will add instructions later
+https://twitter.com/AngelOlsenLines?lang=en This bot tweets Angel Olsen Lyrics
 
-2. https://twitter.com/AngelOlsenLines?lang=en sample bot.
